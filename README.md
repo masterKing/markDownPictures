@@ -1,1 +1,3 @@
 # markDownPictures
+
+本仓库存放所有markdown文件所需要的图片
